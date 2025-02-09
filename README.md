@@ -3,3 +3,4 @@ basic python exercises
 report on the ai image generating tools
 numpy based python codes
 report on ai code fixing
+report on research paper summarization
